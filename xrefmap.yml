@@ -1,0 +1,1206 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: Runnex.Classifier
+  name: Runnex.Classifier
+  href: api/Runnex.Classifier.html
+  commentId: N:Runnex.Classifier
+  fullName: Runnex.Classifier
+  nameWithType: Runnex.Classifier
+- uid: Runnex.Classifier.TextureScaler
+  name: TextureScaler
+  href: api/Runnex.Classifier.TextureScaler.html
+  commentId: T:Runnex.Classifier.TextureScaler
+  fullName: Runnex.Classifier.TextureScaler
+  nameWithType: TextureScaler
+- uid: Runnex.Classifier.TextureScaler.scale(Texture2D,System.Int32,System.Int32,FilterMode)
+  name: scale(Texture2D, Int32, Int32, FilterMode)
+  href: api/Runnex.Classifier.TextureScaler.html#Runnex_Classifier_TextureScaler_scale_Texture2D_System_Int32_System_Int32_FilterMode_
+  commentId: M:Runnex.Classifier.TextureScaler.scale(Texture2D,System.Int32,System.Int32,FilterMode)
+  fullName: Runnex.Classifier.TextureScaler.scale(Texture2D, System.Int32, System.Int32, FilterMode)
+  nameWithType: TextureScaler.scale(Texture2D, Int32, Int32, FilterMode)
+- uid: Runnex.Classifier.TextureScaler.scale*
+  name: scale
+  href: api/Runnex.Classifier.TextureScaler.html#Runnex_Classifier_TextureScaler_scale_
+  commentId: Overload:Runnex.Classifier.TextureScaler.scale
+  isSpec: "True"
+  fullName: Runnex.Classifier.TextureScaler.scale
+  nameWithType: TextureScaler.scale
+- uid: Runnex.Classifier.TextureScaler.scaled(Texture2D,System.Int32,System.Int32,FilterMode)
+  name: scaled(Texture2D, Int32, Int32, FilterMode)
+  href: api/Runnex.Classifier.TextureScaler.html#Runnex_Classifier_TextureScaler_scaled_Texture2D_System_Int32_System_Int32_FilterMode_
+  commentId: M:Runnex.Classifier.TextureScaler.scaled(Texture2D,System.Int32,System.Int32,FilterMode)
+  fullName: Runnex.Classifier.TextureScaler.scaled(Texture2D, System.Int32, System.Int32, FilterMode)
+  nameWithType: TextureScaler.scaled(Texture2D, Int32, Int32, FilterMode)
+- uid: Runnex.Classifier.TextureScaler.scaled*
+  name: scaled
+  href: api/Runnex.Classifier.TextureScaler.html#Runnex_Classifier_TextureScaler_scaled_
+  commentId: Overload:Runnex.Classifier.TextureScaler.scaled
+  isSpec: "True"
+  fullName: Runnex.Classifier.TextureScaler.scaled
+  nameWithType: TextureScaler.scaled
+- uid: Runnex.Utilities
+  name: Runnex.Utilities
+  href: api/Runnex.Utilities.html
+  commentId: N:Runnex.Utilities
+  fullName: Runnex.Utilities
+  nameWithType: Runnex.Utilities
+- uid: Runnex.Utilities.AutoGetAttribute
+  name: AutoGetAttribute
+  href: api/Runnex.Utilities.AutoGetAttribute.html
+  commentId: T:Runnex.Utilities.AutoGetAttribute
+  fullName: Runnex.Utilities.AutoGetAttribute
+  nameWithType: AutoGetAttribute
+- uid: Runnex.Utilities.AutoGetMonoBehaviour
+  name: AutoGetMonoBehaviour
+  href: api/Runnex.Utilities.AutoGetMonoBehaviour.html
+  commentId: T:Runnex.Utilities.AutoGetMonoBehaviour
+  fullName: Runnex.Utilities.AutoGetMonoBehaviour
+  nameWithType: AutoGetMonoBehaviour
+- uid: Runnex.Utilities.AutoGetMonoBehaviour.Awake
+  name: Awake()
+  href: api/Runnex.Utilities.AutoGetMonoBehaviour.html#Runnex_Utilities_AutoGetMonoBehaviour_Awake
+  commentId: M:Runnex.Utilities.AutoGetMonoBehaviour.Awake
+  fullName: Runnex.Utilities.AutoGetMonoBehaviour.Awake()
+  nameWithType: AutoGetMonoBehaviour.Awake()
+- uid: Runnex.Utilities.AutoGetMonoBehaviour.Awake*
+  name: Awake
+  href: api/Runnex.Utilities.AutoGetMonoBehaviour.html#Runnex_Utilities_AutoGetMonoBehaviour_Awake_
+  commentId: Overload:Runnex.Utilities.AutoGetMonoBehaviour.Awake
+  isSpec: "True"
+  fullName: Runnex.Utilities.AutoGetMonoBehaviour.Awake
+  nameWithType: AutoGetMonoBehaviour.Awake
+- uid: Runnex.Utilities.CSVHelper
+  name: CSVHelper
+  href: api/Runnex.Utilities.CSVHelper.html
+  commentId: T:Runnex.Utilities.CSVHelper
+  fullName: Runnex.Utilities.CSVHelper
+  nameWithType: CSVHelper
+- uid: Runnex.Utilities.CSVHelper.ImportToJson(System.String)
+  name: ImportToJson(String)
+  href: api/Runnex.Utilities.CSVHelper.html#Runnex_Utilities_CSVHelper_ImportToJson_System_String_
+  commentId: M:Runnex.Utilities.CSVHelper.ImportToJson(System.String)
+  fullName: Runnex.Utilities.CSVHelper.ImportToJson(System.String)
+  nameWithType: CSVHelper.ImportToJson(String)
+- uid: Runnex.Utilities.CSVHelper.ImportToJson*
+  name: ImportToJson
+  href: api/Runnex.Utilities.CSVHelper.html#Runnex_Utilities_CSVHelper_ImportToJson_
+  commentId: Overload:Runnex.Utilities.CSVHelper.ImportToJson
+  isSpec: "True"
+  fullName: Runnex.Utilities.CSVHelper.ImportToJson
+  nameWithType: CSVHelper.ImportToJson
+- uid: Runnex.Utilities.Editor
+  name: Runnex.Utilities.Editor
+  href: api/Runnex.Utilities.Editor.html
+  commentId: N:Runnex.Utilities.Editor
+  fullName: Runnex.Utilities.Editor
+  nameWithType: Runnex.Utilities.Editor
+- uid: Runnex.Utilities.Editor.StringEnumDrawer
+  name: StringEnumDrawer
+  href: api/Runnex.Utilities.Editor.StringEnumDrawer.html
+  commentId: T:Runnex.Utilities.Editor.StringEnumDrawer
+  fullName: Runnex.Utilities.Editor.StringEnumDrawer
+  nameWithType: StringEnumDrawer
+- uid: Runnex.Utilities.Editor.StringEnumDrawer.OnGUI(Rect,SerializedProperty,GUIContent)
+  name: OnGUI(Rect, SerializedProperty, GUIContent)
+  href: api/Runnex.Utilities.Editor.StringEnumDrawer.html#Runnex_Utilities_Editor_StringEnumDrawer_OnGUI_Rect_SerializedProperty_GUIContent_
+  commentId: M:Runnex.Utilities.Editor.StringEnumDrawer.OnGUI(Rect,SerializedProperty,GUIContent)
+  fullName: Runnex.Utilities.Editor.StringEnumDrawer.OnGUI(Rect, SerializedProperty, GUIContent)
+  nameWithType: StringEnumDrawer.OnGUI(Rect, SerializedProperty, GUIContent)
+- uid: Runnex.Utilities.Editor.StringEnumDrawer.OnGUI*
+  name: OnGUI
+  href: api/Runnex.Utilities.Editor.StringEnumDrawer.html#Runnex_Utilities_Editor_StringEnumDrawer_OnGUI_
+  commentId: Overload:Runnex.Utilities.Editor.StringEnumDrawer.OnGUI
+  isSpec: "True"
+  fullName: Runnex.Utilities.Editor.StringEnumDrawer.OnGUI
+  nameWithType: StringEnumDrawer.OnGUI
+- uid: Runnex.Utilities.Example
+  name: Runnex.Utilities.Example
+  href: api/Runnex.Utilities.Example.html
+  commentId: N:Runnex.Utilities.Example
+  fullName: Runnex.Utilities.Example
+  nameWithType: Runnex.Utilities.Example
+- uid: Runnex.Utilities.Example.TestStringEnum
+  name: TestStringEnum
+  href: api/Runnex.Utilities.Example.TestStringEnum.html
+  commentId: T:Runnex.Utilities.Example.TestStringEnum
+  fullName: Runnex.Utilities.Example.TestStringEnum
+  nameWithType: TestStringEnum
+- uid: Runnex.Utilities.Extensions
+  name: Runnex.Utilities.Extensions
+  href: api/Runnex.Utilities.Extensions.html
+  commentId: N:Runnex.Utilities.Extensions
+  fullName: Runnex.Utilities.Extensions
+  nameWithType: Runnex.Utilities.Extensions
+- uid: Runnex.Utilities.Extensions.GraphicExtension
+  name: GraphicExtension
+  href: api/Runnex.Utilities.Extensions.GraphicExtension.html
+  commentId: T:Runnex.Utilities.Extensions.GraphicExtension
+  fullName: Runnex.Utilities.Extensions.GraphicExtension
+  nameWithType: GraphicExtension
+- uid: Runnex.Utilities.Extensions.GraphicExtension.Fade(Graphic,System.Single,System.Single,System.Single)
+  name: Fade(Graphic, Single, Single, Single)
+  href: api/Runnex.Utilities.Extensions.GraphicExtension.html#Runnex_Utilities_Extensions_GraphicExtension_Fade_Graphic_System_Single_System_Single_System_Single_
+  commentId: M:Runnex.Utilities.Extensions.GraphicExtension.Fade(Graphic,System.Single,System.Single,System.Single)
+  fullName: Runnex.Utilities.Extensions.GraphicExtension.Fade(Graphic, System.Single, System.Single, System.Single)
+  nameWithType: GraphicExtension.Fade(Graphic, Single, Single, Single)
+- uid: Runnex.Utilities.Extensions.GraphicExtension.Fade*
+  name: Fade
+  href: api/Runnex.Utilities.Extensions.GraphicExtension.html#Runnex_Utilities_Extensions_GraphicExtension_Fade_
+  commentId: Overload:Runnex.Utilities.Extensions.GraphicExtension.Fade
+  isSpec: "True"
+  fullName: Runnex.Utilities.Extensions.GraphicExtension.Fade
+  nameWithType: GraphicExtension.Fade
+- uid: Runnex.Utilities.Extensions.VectorExtension
+  name: VectorExtension
+  href: api/Runnex.Utilities.Extensions.VectorExtension.html
+  commentId: T:Runnex.Utilities.Extensions.VectorExtension
+  fullName: Runnex.Utilities.Extensions.VectorExtension
+  nameWithType: VectorExtension
+- uid: Runnex.Utilities.Extensions.VectorExtension.Clamp(Vector3,Vector3,Vector3)
+  name: Clamp(Vector3, Vector3, Vector3)
+  href: api/Runnex.Utilities.Extensions.VectorExtension.html#Runnex_Utilities_Extensions_VectorExtension_Clamp_Vector3_Vector3_Vector3_
+  commentId: M:Runnex.Utilities.Extensions.VectorExtension.Clamp(Vector3,Vector3,Vector3)
+  fullName: Runnex.Utilities.Extensions.VectorExtension.Clamp(Vector3, Vector3, Vector3)
+  nameWithType: VectorExtension.Clamp(Vector3, Vector3, Vector3)
+- uid: Runnex.Utilities.Extensions.VectorExtension.Clamp*
+  name: Clamp
+  href: api/Runnex.Utilities.Extensions.VectorExtension.html#Runnex_Utilities_Extensions_VectorExtension_Clamp_
+  commentId: Overload:Runnex.Utilities.Extensions.VectorExtension.Clamp
+  isSpec: "True"
+  fullName: Runnex.Utilities.Extensions.VectorExtension.Clamp
+  nameWithType: VectorExtension.Clamp
+- uid: Runnex.Utilities.Extensions.VectorExtension.Clone(Vector3)
+  name: Clone(Vector3)
+  href: api/Runnex.Utilities.Extensions.VectorExtension.html#Runnex_Utilities_Extensions_VectorExtension_Clone_Vector3_
+  commentId: M:Runnex.Utilities.Extensions.VectorExtension.Clone(Vector3)
+  fullName: Runnex.Utilities.Extensions.VectorExtension.Clone(Vector3)
+  nameWithType: VectorExtension.Clone(Vector3)
+- uid: Runnex.Utilities.Extensions.VectorExtension.Clone*
+  name: Clone
+  href: api/Runnex.Utilities.Extensions.VectorExtension.html#Runnex_Utilities_Extensions_VectorExtension_Clone_
+  commentId: Overload:Runnex.Utilities.Extensions.VectorExtension.Clone
+  isSpec: "True"
+  fullName: Runnex.Utilities.Extensions.VectorExtension.Clone
+  nameWithType: VectorExtension.Clone
+- uid: Runnex.Utilities.Extensions.VectorExtension.InverseLerp(Vector3,Vector3,Vector3)
+  name: InverseLerp(Vector3, Vector3, Vector3)
+  href: api/Runnex.Utilities.Extensions.VectorExtension.html#Runnex_Utilities_Extensions_VectorExtension_InverseLerp_Vector3_Vector3_Vector3_
+  commentId: M:Runnex.Utilities.Extensions.VectorExtension.InverseLerp(Vector3,Vector3,Vector3)
+  fullName: Runnex.Utilities.Extensions.VectorExtension.InverseLerp(Vector3, Vector3, Vector3)
+  nameWithType: VectorExtension.InverseLerp(Vector3, Vector3, Vector3)
+- uid: Runnex.Utilities.Extensions.VectorExtension.InverseLerp*
+  name: InverseLerp
+  href: api/Runnex.Utilities.Extensions.VectorExtension.html#Runnex_Utilities_Extensions_VectorExtension_InverseLerp_
+  commentId: Overload:Runnex.Utilities.Extensions.VectorExtension.InverseLerp
+  isSpec: "True"
+  fullName: Runnex.Utilities.Extensions.VectorExtension.InverseLerp
+  nameWithType: VectorExtension.InverseLerp
+- uid: Runnex.Utilities.Extensions.VectorExtension.ToXZ(Vector3)
+  name: ToXZ(Vector3)
+  href: api/Runnex.Utilities.Extensions.VectorExtension.html#Runnex_Utilities_Extensions_VectorExtension_ToXZ_Vector3_
+  commentId: M:Runnex.Utilities.Extensions.VectorExtension.ToXZ(Vector3)
+  fullName: Runnex.Utilities.Extensions.VectorExtension.ToXZ(Vector3)
+  nameWithType: VectorExtension.ToXZ(Vector3)
+- uid: Runnex.Utilities.Extensions.VectorExtension.ToXZ*
+  name: ToXZ
+  href: api/Runnex.Utilities.Extensions.VectorExtension.html#Runnex_Utilities_Extensions_VectorExtension_ToXZ_
+  commentId: Overload:Runnex.Utilities.Extensions.VectorExtension.ToXZ
+  isSpec: "True"
+  fullName: Runnex.Utilities.Extensions.VectorExtension.ToXZ
+  nameWithType: VectorExtension.ToXZ
+- uid: Runnex.Utilities.Extensions.WebCamExtension
+  name: WebCamExtension
+  href: api/Runnex.Utilities.Extensions.WebCamExtension.html
+  commentId: T:Runnex.Utilities.Extensions.WebCamExtension
+  fullName: Runnex.Utilities.Extensions.WebCamExtension
+  nameWithType: WebCamExtension
+- uid: Runnex.Utilities.Extensions.WebCamExtension.CamToTexture2D(WebCamTexture)
+  name: CamToTexture2D(WebCamTexture)
+  href: api/Runnex.Utilities.Extensions.WebCamExtension.html#Runnex_Utilities_Extensions_WebCamExtension_CamToTexture2D_WebCamTexture_
+  commentId: M:Runnex.Utilities.Extensions.WebCamExtension.CamToTexture2D(WebCamTexture)
+  fullName: Runnex.Utilities.Extensions.WebCamExtension.CamToTexture2D(WebCamTexture)
+  nameWithType: WebCamExtension.CamToTexture2D(WebCamTexture)
+- uid: Runnex.Utilities.Extensions.WebCamExtension.CamToTexture2D*
+  name: CamToTexture2D
+  href: api/Runnex.Utilities.Extensions.WebCamExtension.html#Runnex_Utilities_Extensions_WebCamExtension_CamToTexture2D_
+  commentId: Overload:Runnex.Utilities.Extensions.WebCamExtension.CamToTexture2D
+  isSpec: "True"
+  fullName: Runnex.Utilities.Extensions.WebCamExtension.CamToTexture2D
+  nameWithType: WebCamExtension.CamToTexture2D
+- uid: Runnex.Utilities.GameObjectExtension
+  name: GameObjectExtension
+  href: api/Runnex.Utilities.GameObjectExtension.html
+  commentId: T:Runnex.Utilities.GameObjectExtension
+  fullName: Runnex.Utilities.GameObjectExtension
+  nameWithType: GameObjectExtension
+- uid: Runnex.Utilities.GameObjectExtension.SetLayerRecursively(GameObject,System.Int32)
+  name: SetLayerRecursively(GameObject, Int32)
+  href: api/Runnex.Utilities.GameObjectExtension.html#Runnex_Utilities_GameObjectExtension_SetLayerRecursively_GameObject_System_Int32_
+  commentId: M:Runnex.Utilities.GameObjectExtension.SetLayerRecursively(GameObject,System.Int32)
+  fullName: Runnex.Utilities.GameObjectExtension.SetLayerRecursively(GameObject, System.Int32)
+  nameWithType: GameObjectExtension.SetLayerRecursively(GameObject, Int32)
+- uid: Runnex.Utilities.GameObjectExtension.SetLayerRecursively*
+  name: SetLayerRecursively
+  href: api/Runnex.Utilities.GameObjectExtension.html#Runnex_Utilities_GameObjectExtension_SetLayerRecursively_
+  commentId: Overload:Runnex.Utilities.GameObjectExtension.SetLayerRecursively
+  isSpec: "True"
+  fullName: Runnex.Utilities.GameObjectExtension.SetLayerRecursively
+  nameWithType: GameObjectExtension.SetLayerRecursively
+- uid: Runnex.Utilities.GameViewUtils
+  name: GameViewUtils
+  href: api/Runnex.Utilities.GameViewUtils.html
+  commentId: T:Runnex.Utilities.GameViewUtils
+  fullName: Runnex.Utilities.GameViewUtils
+  nameWithType: GameViewUtils
+- uid: Runnex.Utilities.MonoSingleton
+  name: MonoSingleton
+  href: api/Runnex.Utilities.MonoSingleton.html
+  commentId: T:Runnex.Utilities.MonoSingleton
+  fullName: Runnex.Utilities.MonoSingleton
+  nameWithType: MonoSingleton
+- uid: Runnex.Utilities.MonoSingleton.Destroy
+  name: Destroy()
+  href: api/Runnex.Utilities.MonoSingleton.html#Runnex_Utilities_MonoSingleton_Destroy
+  commentId: M:Runnex.Utilities.MonoSingleton.Destroy
+  fullName: Runnex.Utilities.MonoSingleton.Destroy()
+  nameWithType: MonoSingleton.Destroy()
+- uid: Runnex.Utilities.MonoSingleton.Destroy*
+  name: Destroy
+  href: api/Runnex.Utilities.MonoSingleton.html#Runnex_Utilities_MonoSingleton_Destroy_
+  commentId: Overload:Runnex.Utilities.MonoSingleton.Destroy
+  isSpec: "True"
+  fullName: Runnex.Utilities.MonoSingleton.Destroy
+  nameWithType: MonoSingleton.Destroy
+- uid: Runnex.Utilities.MonoSingleton`1
+  name: MonoSingleton<T>
+  href: api/Runnex.Utilities.MonoSingleton-1.html
+  commentId: T:Runnex.Utilities.MonoSingleton`1
+  name.vb: MonoSingleton(Of T)
+  fullName: Runnex.Utilities.MonoSingleton<T>
+  fullName.vb: Runnex.Utilities.MonoSingleton(Of T)
+  nameWithType: MonoSingleton<T>
+  nameWithType.vb: MonoSingleton(Of T)
+- uid: Runnex.Utilities.MonoSingleton`1.Awake
+  name: Awake()
+  href: api/Runnex.Utilities.MonoSingleton-1.html#Runnex_Utilities_MonoSingleton_1_Awake
+  commentId: M:Runnex.Utilities.MonoSingleton`1.Awake
+  fullName: Runnex.Utilities.MonoSingleton<T>.Awake()
+  fullName.vb: Runnex.Utilities.MonoSingleton(Of T).Awake()
+  nameWithType: MonoSingleton<T>.Awake()
+  nameWithType.vb: MonoSingleton(Of T).Awake()
+- uid: Runnex.Utilities.MonoSingleton`1.Awake*
+  name: Awake
+  href: api/Runnex.Utilities.MonoSingleton-1.html#Runnex_Utilities_MonoSingleton_1_Awake_
+  commentId: Overload:Runnex.Utilities.MonoSingleton`1.Awake
+  isSpec: "True"
+  fullName: Runnex.Utilities.MonoSingleton<T>.Awake
+  fullName.vb: Runnex.Utilities.MonoSingleton(Of T).Awake
+  nameWithType: MonoSingleton<T>.Awake
+  nameWithType.vb: MonoSingleton(Of T).Awake
+- uid: Runnex.Utilities.MonoSingleton`1.Destroy
+  name: Destroy()
+  href: api/Runnex.Utilities.MonoSingleton-1.html#Runnex_Utilities_MonoSingleton_1_Destroy
+  commentId: M:Runnex.Utilities.MonoSingleton`1.Destroy
+  fullName: Runnex.Utilities.MonoSingleton<T>.Destroy()
+  fullName.vb: Runnex.Utilities.MonoSingleton(Of T).Destroy()
+  nameWithType: MonoSingleton<T>.Destroy()
+  nameWithType.vb: MonoSingleton(Of T).Destroy()
+- uid: Runnex.Utilities.MonoSingleton`1.Destroy*
+  name: Destroy
+  href: api/Runnex.Utilities.MonoSingleton-1.html#Runnex_Utilities_MonoSingleton_1_Destroy_
+  commentId: Overload:Runnex.Utilities.MonoSingleton`1.Destroy
+  isSpec: "True"
+  fullName: Runnex.Utilities.MonoSingleton<T>.Destroy
+  fullName.vb: Runnex.Utilities.MonoSingleton(Of T).Destroy
+  nameWithType: MonoSingleton<T>.Destroy
+  nameWithType.vb: MonoSingleton(Of T).Destroy
+- uid: Runnex.Utilities.MonoSingleton`1.HasInstance
+  name: HasInstance
+  href: api/Runnex.Utilities.MonoSingleton-1.html#Runnex_Utilities_MonoSingleton_1_HasInstance
+  commentId: P:Runnex.Utilities.MonoSingleton`1.HasInstance
+  fullName: Runnex.Utilities.MonoSingleton<T>.HasInstance
+  fullName.vb: Runnex.Utilities.MonoSingleton(Of T).HasInstance
+  nameWithType: MonoSingleton<T>.HasInstance
+  nameWithType.vb: MonoSingleton(Of T).HasInstance
+- uid: Runnex.Utilities.MonoSingleton`1.HasInstance*
+  name: HasInstance
+  href: api/Runnex.Utilities.MonoSingleton-1.html#Runnex_Utilities_MonoSingleton_1_HasInstance_
+  commentId: Overload:Runnex.Utilities.MonoSingleton`1.HasInstance
+  isSpec: "True"
+  fullName: Runnex.Utilities.MonoSingleton<T>.HasInstance
+  fullName.vb: Runnex.Utilities.MonoSingleton(Of T).HasInstance
+  nameWithType: MonoSingleton<T>.HasInstance
+  nameWithType.vb: MonoSingleton(Of T).HasInstance
+- uid: Runnex.Utilities.MonoSingleton`1.Instance
+  name: Instance
+  href: api/Runnex.Utilities.MonoSingleton-1.html#Runnex_Utilities_MonoSingleton_1_Instance
+  commentId: P:Runnex.Utilities.MonoSingleton`1.Instance
+  fullName: Runnex.Utilities.MonoSingleton<T>.Instance
+  fullName.vb: Runnex.Utilities.MonoSingleton(Of T).Instance
+  nameWithType: MonoSingleton<T>.Instance
+  nameWithType.vb: MonoSingleton(Of T).Instance
+- uid: Runnex.Utilities.MonoSingleton`1.Instance*
+  name: Instance
+  href: api/Runnex.Utilities.MonoSingleton-1.html#Runnex_Utilities_MonoSingleton_1_Instance_
+  commentId: Overload:Runnex.Utilities.MonoSingleton`1.Instance
+  isSpec: "True"
+  fullName: Runnex.Utilities.MonoSingleton<T>.Instance
+  fullName.vb: Runnex.Utilities.MonoSingleton(Of T).Instance
+  nameWithType: MonoSingleton<T>.Instance
+  nameWithType.vb: MonoSingleton(Of T).Instance
+- uid: Runnex.Utilities.MonoSingleton`1.OnDestroy
+  name: OnDestroy()
+  href: api/Runnex.Utilities.MonoSingleton-1.html#Runnex_Utilities_MonoSingleton_1_OnDestroy
+  commentId: M:Runnex.Utilities.MonoSingleton`1.OnDestroy
+  fullName: Runnex.Utilities.MonoSingleton<T>.OnDestroy()
+  fullName.vb: Runnex.Utilities.MonoSingleton(Of T).OnDestroy()
+  nameWithType: MonoSingleton<T>.OnDestroy()
+  nameWithType.vb: MonoSingleton(Of T).OnDestroy()
+- uid: Runnex.Utilities.MonoSingleton`1.OnDestroy*
+  name: OnDestroy
+  href: api/Runnex.Utilities.MonoSingleton-1.html#Runnex_Utilities_MonoSingleton_1_OnDestroy_
+  commentId: Overload:Runnex.Utilities.MonoSingleton`1.OnDestroy
+  isSpec: "True"
+  fullName: Runnex.Utilities.MonoSingleton<T>.OnDestroy
+  fullName.vb: Runnex.Utilities.MonoSingleton(Of T).OnDestroy
+  nameWithType: MonoSingleton<T>.OnDestroy
+  nameWithType.vb: MonoSingleton(Of T).OnDestroy
+- uid: Runnex.Utilities.ObjectExtension
+  name: ObjectExtension
+  href: api/Runnex.Utilities.ObjectExtension.html
+  commentId: T:Runnex.Utilities.ObjectExtension
+  fullName: Runnex.Utilities.ObjectExtension
+  nameWithType: ObjectExtension
+- uid: Runnex.Utilities.ObjectExtension.GetStaticProperty*
+  name: GetStaticProperty
+  href: api/Runnex.Utilities.ObjectExtension.html#Runnex_Utilities_ObjectExtension_GetStaticProperty_
+  commentId: Overload:Runnex.Utilities.ObjectExtension.GetStaticProperty
+  isSpec: "True"
+  fullName: Runnex.Utilities.ObjectExtension.GetStaticProperty
+  nameWithType: ObjectExtension.GetStaticProperty
+- uid: Runnex.Utilities.ObjectExtension.GetStaticProperty``1(System.Type,System.String)
+  name: GetStaticProperty<T>(Type, String)
+  href: api/Runnex.Utilities.ObjectExtension.html#Runnex_Utilities_ObjectExtension_GetStaticProperty__1_System_Type_System_String_
+  commentId: M:Runnex.Utilities.ObjectExtension.GetStaticProperty``1(System.Type,System.String)
+  name.vb: GetStaticProperty(Of T)(Type, String)
+  fullName: Runnex.Utilities.ObjectExtension.GetStaticProperty<T>(System.Type, System.String)
+  fullName.vb: Runnex.Utilities.ObjectExtension.GetStaticProperty(Of T)(System.Type, System.String)
+  nameWithType: ObjectExtension.GetStaticProperty<T>(Type, String)
+  nameWithType.vb: ObjectExtension.GetStaticProperty(Of T)(Type, String)
+- uid: Runnex.Utilities.PoseStyle
+  name: PoseStyle
+  href: api/Runnex.Utilities.PoseStyle.html
+  commentId: T:Runnex.Utilities.PoseStyle
+  fullName: Runnex.Utilities.PoseStyle
+  nameWithType: PoseStyle
+- uid: Runnex.Utilities.PoseStyle.#ctor(System.String)
+  name: PoseStyle(String)
+  href: api/Runnex.Utilities.PoseStyle.html#Runnex_Utilities_PoseStyle__ctor_System_String_
+  commentId: M:Runnex.Utilities.PoseStyle.#ctor(System.String)
+  fullName: Runnex.Utilities.PoseStyle.PoseStyle(System.String)
+  nameWithType: PoseStyle.PoseStyle(String)
+- uid: Runnex.Utilities.PoseStyle.#ctor*
+  name: PoseStyle
+  href: api/Runnex.Utilities.PoseStyle.html#Runnex_Utilities_PoseStyle__ctor_
+  commentId: Overload:Runnex.Utilities.PoseStyle.#ctor
+  isSpec: "True"
+  fullName: Runnex.Utilities.PoseStyle.PoseStyle
+  nameWithType: PoseStyle.PoseStyle
+- uid: Runnex.Utilities.PoseStyle.IceSkate
+  name: IceSkate
+  href: api/Runnex.Utilities.PoseStyle.html#Runnex_Utilities_PoseStyle_IceSkate
+  commentId: F:Runnex.Utilities.PoseStyle.IceSkate
+  fullName: Runnex.Utilities.PoseStyle.IceSkate
+  nameWithType: PoseStyle.IceSkate
+- uid: Runnex.Utilities.PoseStyle.SideJump
+  name: SideJump
+  href: api/Runnex.Utilities.PoseStyle.html#Runnex_Utilities_PoseStyle_SideJump
+  commentId: F:Runnex.Utilities.PoseStyle.SideJump
+  fullName: Runnex.Utilities.PoseStyle.SideJump
+  nameWithType: PoseStyle.SideJump
+- uid: Runnex.Utilities.RNGHelper
+  name: RNGHelper
+  href: api/Runnex.Utilities.RNGHelper.html
+  commentId: T:Runnex.Utilities.RNGHelper
+  fullName: Runnex.Utilities.RNGHelper
+  nameWithType: RNGHelper
+- uid: Runnex.Utilities.RNGHelper.GenerateNonRepeatRandom(System.Int32,System.Int32,System.Int32,System.Nullable{System.Int32})
+  name: GenerateNonRepeatRandom(Int32, Int32, Int32, Nullable<Int32>)
+  href: api/Runnex.Utilities.RNGHelper.html#Runnex_Utilities_RNGHelper_GenerateNonRepeatRandom_System_Int32_System_Int32_System_Int32_System_Nullable_System_Int32__
+  commentId: M:Runnex.Utilities.RNGHelper.GenerateNonRepeatRandom(System.Int32,System.Int32,System.Int32,System.Nullable{System.Int32})
+  name.vb: GenerateNonRepeatRandom(Int32, Int32, Int32, Nullable(Of Int32))
+  fullName: Runnex.Utilities.RNGHelper.GenerateNonRepeatRandom(System.Int32, System.Int32, System.Int32, System.Nullable<System.Int32>)
+  fullName.vb: Runnex.Utilities.RNGHelper.GenerateNonRepeatRandom(System.Int32, System.Int32, System.Int32, System.Nullable(Of System.Int32))
+  nameWithType: RNGHelper.GenerateNonRepeatRandom(Int32, Int32, Int32, Nullable<Int32>)
+  nameWithType.vb: RNGHelper.GenerateNonRepeatRandom(Int32, Int32, Int32, Nullable(Of Int32))
+- uid: Runnex.Utilities.RNGHelper.GenerateNonRepeatRandom*
+  name: GenerateNonRepeatRandom
+  href: api/Runnex.Utilities.RNGHelper.html#Runnex_Utilities_RNGHelper_GenerateNonRepeatRandom_
+  commentId: Overload:Runnex.Utilities.RNGHelper.GenerateNonRepeatRandom
+  isSpec: "True"
+  fullName: Runnex.Utilities.RNGHelper.GenerateNonRepeatRandom
+  nameWithType: RNGHelper.GenerateNonRepeatRandom
+- uid: Runnex.Utilities.SerializableStringEnum
+  name: SerializableStringEnum
+  href: api/Runnex.Utilities.SerializableStringEnum.html
+  commentId: T:Runnex.Utilities.SerializableStringEnum
+  fullName: Runnex.Utilities.SerializableStringEnum
+  nameWithType: SerializableStringEnum
+- uid: Runnex.Utilities.SerializableStringEnum.#ctor(Runnex.Utilities.StringEnum)
+  name: SerializableStringEnum(StringEnum)
+  href: api/Runnex.Utilities.SerializableStringEnum.html#Runnex_Utilities_SerializableStringEnum__ctor_Runnex_Utilities_StringEnum_
+  commentId: M:Runnex.Utilities.SerializableStringEnum.#ctor(Runnex.Utilities.StringEnum)
+  fullName: Runnex.Utilities.SerializableStringEnum.SerializableStringEnum(Runnex.Utilities.StringEnum)
+  nameWithType: SerializableStringEnum.SerializableStringEnum(StringEnum)
+- uid: Runnex.Utilities.SerializableStringEnum.#ctor*
+  name: SerializableStringEnum
+  href: api/Runnex.Utilities.SerializableStringEnum.html#Runnex_Utilities_SerializableStringEnum__ctor_
+  commentId: Overload:Runnex.Utilities.SerializableStringEnum.#ctor
+  isSpec: "True"
+  fullName: Runnex.Utilities.SerializableStringEnum.SerializableStringEnum
+  nameWithType: SerializableStringEnum.SerializableStringEnum
+- uid: Runnex.Utilities.SerializableStringEnum.EnumType
+  name: EnumType
+  href: api/Runnex.Utilities.SerializableStringEnum.html#Runnex_Utilities_SerializableStringEnum_EnumType
+  commentId: P:Runnex.Utilities.SerializableStringEnum.EnumType
+  fullName: Runnex.Utilities.SerializableStringEnum.EnumType
+  nameWithType: SerializableStringEnum.EnumType
+- uid: Runnex.Utilities.SerializableStringEnum.EnumType*
+  name: EnumType
+  href: api/Runnex.Utilities.SerializableStringEnum.html#Runnex_Utilities_SerializableStringEnum_EnumType_
+  commentId: Overload:Runnex.Utilities.SerializableStringEnum.EnumType
+  isSpec: "True"
+  fullName: Runnex.Utilities.SerializableStringEnum.EnumType
+  nameWithType: SerializableStringEnum.EnumType
+- uid: Runnex.Utilities.SerializableStringEnum.StringValue
+  name: StringValue
+  href: api/Runnex.Utilities.SerializableStringEnum.html#Runnex_Utilities_SerializableStringEnum_StringValue
+  commentId: P:Runnex.Utilities.SerializableStringEnum.StringValue
+  fullName: Runnex.Utilities.SerializableStringEnum.StringValue
+  nameWithType: SerializableStringEnum.StringValue
+- uid: Runnex.Utilities.SerializableStringEnum.StringValue*
+  name: StringValue
+  href: api/Runnex.Utilities.SerializableStringEnum.html#Runnex_Utilities_SerializableStringEnum_StringValue_
+  commentId: Overload:Runnex.Utilities.SerializableStringEnum.StringValue
+  isSpec: "True"
+  fullName: Runnex.Utilities.SerializableStringEnum.StringValue
+  nameWithType: SerializableStringEnum.StringValue
+- uid: Runnex.Utilities.SerializableStringEnum.value
+  name: value
+  href: api/Runnex.Utilities.SerializableStringEnum.html#Runnex_Utilities_SerializableStringEnum_value
+  commentId: F:Runnex.Utilities.SerializableStringEnum.value
+  fullName: Runnex.Utilities.SerializableStringEnum.value
+  nameWithType: SerializableStringEnum.value
+- uid: Runnex.Utilities.SerializableStringEnum`1
+  name: SerializableStringEnum<T>
+  href: api/Runnex.Utilities.SerializableStringEnum-1.html
+  commentId: T:Runnex.Utilities.SerializableStringEnum`1
+  name.vb: SerializableStringEnum(Of T)
+  fullName: Runnex.Utilities.SerializableStringEnum<T>
+  fullName.vb: Runnex.Utilities.SerializableStringEnum(Of T)
+  nameWithType: SerializableStringEnum<T>
+  nameWithType.vb: SerializableStringEnum(Of T)
+- uid: Runnex.Utilities.SerializableStringEnum`1.#ctor(Runnex.Utilities.StringEnum)
+  name: SerializableStringEnum(StringEnum)
+  href: api/Runnex.Utilities.SerializableStringEnum-1.html#Runnex_Utilities_SerializableStringEnum_1__ctor_Runnex_Utilities_StringEnum_
+  commentId: M:Runnex.Utilities.SerializableStringEnum`1.#ctor(Runnex.Utilities.StringEnum)
+  fullName: Runnex.Utilities.SerializableStringEnum<T>.SerializableStringEnum(Runnex.Utilities.StringEnum)
+  fullName.vb: Runnex.Utilities.SerializableStringEnum(Of T).SerializableStringEnum(Runnex.Utilities.StringEnum)
+  nameWithType: SerializableStringEnum<T>.SerializableStringEnum(StringEnum)
+  nameWithType.vb: SerializableStringEnum(Of T).SerializableStringEnum(StringEnum)
+- uid: Runnex.Utilities.SerializableStringEnum`1.#ctor*
+  name: SerializableStringEnum
+  href: api/Runnex.Utilities.SerializableStringEnum-1.html#Runnex_Utilities_SerializableStringEnum_1__ctor_
+  commentId: Overload:Runnex.Utilities.SerializableStringEnum`1.#ctor
+  isSpec: "True"
+  fullName: Runnex.Utilities.SerializableStringEnum<T>.SerializableStringEnum
+  fullName.vb: Runnex.Utilities.SerializableStringEnum(Of T).SerializableStringEnum
+  nameWithType: SerializableStringEnum<T>.SerializableStringEnum
+  nameWithType.vb: SerializableStringEnum(Of T).SerializableStringEnum
+- uid: Runnex.Utilities.SerializableStringEnum`1.EnumType
+  name: EnumType
+  href: api/Runnex.Utilities.SerializableStringEnum-1.html#Runnex_Utilities_SerializableStringEnum_1_EnumType
+  commentId: P:Runnex.Utilities.SerializableStringEnum`1.EnumType
+  fullName: Runnex.Utilities.SerializableStringEnum<T>.EnumType
+  fullName.vb: Runnex.Utilities.SerializableStringEnum(Of T).EnumType
+  nameWithType: SerializableStringEnum<T>.EnumType
+  nameWithType.vb: SerializableStringEnum(Of T).EnumType
+- uid: Runnex.Utilities.SerializableStringEnum`1.EnumType*
+  name: EnumType
+  href: api/Runnex.Utilities.SerializableStringEnum-1.html#Runnex_Utilities_SerializableStringEnum_1_EnumType_
+  commentId: Overload:Runnex.Utilities.SerializableStringEnum`1.EnumType
+  isSpec: "True"
+  fullName: Runnex.Utilities.SerializableStringEnum<T>.EnumType
+  fullName.vb: Runnex.Utilities.SerializableStringEnum(Of T).EnumType
+  nameWithType: SerializableStringEnum<T>.EnumType
+  nameWithType.vb: SerializableStringEnum(Of T).EnumType
+- uid: Runnex.Utilities.SerializableStringEnum`1.Equals(System.Object)
+  name: Equals(Object)
+  href: api/Runnex.Utilities.SerializableStringEnum-1.html#Runnex_Utilities_SerializableStringEnum_1_Equals_System_Object_
+  commentId: M:Runnex.Utilities.SerializableStringEnum`1.Equals(System.Object)
+  fullName: Runnex.Utilities.SerializableStringEnum<T>.Equals(System.Object)
+  fullName.vb: Runnex.Utilities.SerializableStringEnum(Of T).Equals(System.Object)
+  nameWithType: SerializableStringEnum<T>.Equals(Object)
+  nameWithType.vb: SerializableStringEnum(Of T).Equals(Object)
+- uid: Runnex.Utilities.SerializableStringEnum`1.Equals*
+  name: Equals
+  href: api/Runnex.Utilities.SerializableStringEnum-1.html#Runnex_Utilities_SerializableStringEnum_1_Equals_
+  commentId: Overload:Runnex.Utilities.SerializableStringEnum`1.Equals
+  isSpec: "True"
+  fullName: Runnex.Utilities.SerializableStringEnum<T>.Equals
+  fullName.vb: Runnex.Utilities.SerializableStringEnum(Of T).Equals
+  nameWithType: SerializableStringEnum<T>.Equals
+  nameWithType.vb: SerializableStringEnum(Of T).Equals
+- uid: Runnex.Utilities.SerializableStringEnum`1.GetHashCode
+  name: GetHashCode()
+  href: api/Runnex.Utilities.SerializableStringEnum-1.html#Runnex_Utilities_SerializableStringEnum_1_GetHashCode
+  commentId: M:Runnex.Utilities.SerializableStringEnum`1.GetHashCode
+  fullName: Runnex.Utilities.SerializableStringEnum<T>.GetHashCode()
+  fullName.vb: Runnex.Utilities.SerializableStringEnum(Of T).GetHashCode()
+  nameWithType: SerializableStringEnum<T>.GetHashCode()
+  nameWithType.vb: SerializableStringEnum(Of T).GetHashCode()
+- uid: Runnex.Utilities.SerializableStringEnum`1.GetHashCode*
+  name: GetHashCode
+  href: api/Runnex.Utilities.SerializableStringEnum-1.html#Runnex_Utilities_SerializableStringEnum_1_GetHashCode_
+  commentId: Overload:Runnex.Utilities.SerializableStringEnum`1.GetHashCode
+  isSpec: "True"
+  fullName: Runnex.Utilities.SerializableStringEnum<T>.GetHashCode
+  fullName.vb: Runnex.Utilities.SerializableStringEnum(Of T).GetHashCode
+  nameWithType: SerializableStringEnum<T>.GetHashCode
+  nameWithType.vb: SerializableStringEnum(Of T).GetHashCode
+- uid: Runnex.Utilities.SerializableStringEnum`1.op_Equality(Runnex.Utilities.SerializableStringEnum{`0},`0)
+  name: Equality(SerializableStringEnum<T>, T)
+  href: api/Runnex.Utilities.SerializableStringEnum-1.html#Runnex_Utilities_SerializableStringEnum_1_op_Equality_Runnex_Utilities_SerializableStringEnum__0___0_
+  commentId: M:Runnex.Utilities.SerializableStringEnum`1.op_Equality(Runnex.Utilities.SerializableStringEnum{`0},`0)
+  name.vb: Equality(SerializableStringEnum(Of T), T)
+  fullName: Runnex.Utilities.SerializableStringEnum<T>.Equality(Runnex.Utilities.SerializableStringEnum<T>, T)
+  fullName.vb: Runnex.Utilities.SerializableStringEnum(Of T).Equality(Runnex.Utilities.SerializableStringEnum(Of T), T)
+  nameWithType: SerializableStringEnum<T>.Equality(SerializableStringEnum<T>, T)
+  nameWithType.vb: SerializableStringEnum(Of T).Equality(SerializableStringEnum(Of T), T)
+- uid: Runnex.Utilities.SerializableStringEnum`1.op_Equality*
+  name: Equality
+  href: api/Runnex.Utilities.SerializableStringEnum-1.html#Runnex_Utilities_SerializableStringEnum_1_op_Equality_
+  commentId: Overload:Runnex.Utilities.SerializableStringEnum`1.op_Equality
+  isSpec: "True"
+  fullName: Runnex.Utilities.SerializableStringEnum<T>.Equality
+  fullName.vb: Runnex.Utilities.SerializableStringEnum(Of T).Equality
+  nameWithType: SerializableStringEnum<T>.Equality
+  nameWithType.vb: SerializableStringEnum(Of T).Equality
+- uid: Runnex.Utilities.SerializableStringEnum`1.op_Inequality(Runnex.Utilities.SerializableStringEnum{`0},`0)
+  name: Inequality(SerializableStringEnum<T>, T)
+  href: api/Runnex.Utilities.SerializableStringEnum-1.html#Runnex_Utilities_SerializableStringEnum_1_op_Inequality_Runnex_Utilities_SerializableStringEnum__0___0_
+  commentId: M:Runnex.Utilities.SerializableStringEnum`1.op_Inequality(Runnex.Utilities.SerializableStringEnum{`0},`0)
+  name.vb: Inequality(SerializableStringEnum(Of T), T)
+  fullName: Runnex.Utilities.SerializableStringEnum<T>.Inequality(Runnex.Utilities.SerializableStringEnum<T>, T)
+  fullName.vb: Runnex.Utilities.SerializableStringEnum(Of T).Inequality(Runnex.Utilities.SerializableStringEnum(Of T), T)
+  nameWithType: SerializableStringEnum<T>.Inequality(SerializableStringEnum<T>, T)
+  nameWithType.vb: SerializableStringEnum(Of T).Inequality(SerializableStringEnum(Of T), T)
+- uid: Runnex.Utilities.SerializableStringEnum`1.op_Inequality*
+  name: Inequality
+  href: api/Runnex.Utilities.SerializableStringEnum-1.html#Runnex_Utilities_SerializableStringEnum_1_op_Inequality_
+  commentId: Overload:Runnex.Utilities.SerializableStringEnum`1.op_Inequality
+  isSpec: "True"
+  fullName: Runnex.Utilities.SerializableStringEnum<T>.Inequality
+  fullName.vb: Runnex.Utilities.SerializableStringEnum(Of T).Inequality
+  nameWithType: SerializableStringEnum<T>.Inequality
+  nameWithType.vb: SerializableStringEnum(Of T).Inequality
+- uid: Runnex.Utilities.SerializableStringEnum`1.ToEnum
+  name: ToEnum()
+  href: api/Runnex.Utilities.SerializableStringEnum-1.html#Runnex_Utilities_SerializableStringEnum_1_ToEnum
+  commentId: M:Runnex.Utilities.SerializableStringEnum`1.ToEnum
+  fullName: Runnex.Utilities.SerializableStringEnum<T>.ToEnum()
+  fullName.vb: Runnex.Utilities.SerializableStringEnum(Of T).ToEnum()
+  nameWithType: SerializableStringEnum<T>.ToEnum()
+  nameWithType.vb: SerializableStringEnum(Of T).ToEnum()
+- uid: Runnex.Utilities.SerializableStringEnum`1.ToEnum*
+  name: ToEnum
+  href: api/Runnex.Utilities.SerializableStringEnum-1.html#Runnex_Utilities_SerializableStringEnum_1_ToEnum_
+  commentId: Overload:Runnex.Utilities.SerializableStringEnum`1.ToEnum
+  isSpec: "True"
+  fullName: Runnex.Utilities.SerializableStringEnum<T>.ToEnum
+  fullName.vb: Runnex.Utilities.SerializableStringEnum(Of T).ToEnum
+  nameWithType: SerializableStringEnum<T>.ToEnum
+  nameWithType.vb: SerializableStringEnum(Of T).ToEnum
+- uid: Runnex.Utilities.SerializableStringEnum`1.ToString
+  name: ToString()
+  href: api/Runnex.Utilities.SerializableStringEnum-1.html#Runnex_Utilities_SerializableStringEnum_1_ToString
+  commentId: M:Runnex.Utilities.SerializableStringEnum`1.ToString
+  fullName: Runnex.Utilities.SerializableStringEnum<T>.ToString()
+  fullName.vb: Runnex.Utilities.SerializableStringEnum(Of T).ToString()
+  nameWithType: SerializableStringEnum<T>.ToString()
+  nameWithType.vb: SerializableStringEnum(Of T).ToString()
+- uid: Runnex.Utilities.SerializableStringEnum`1.ToString*
+  name: ToString
+  href: api/Runnex.Utilities.SerializableStringEnum-1.html#Runnex_Utilities_SerializableStringEnum_1_ToString_
+  commentId: Overload:Runnex.Utilities.SerializableStringEnum`1.ToString
+  isSpec: "True"
+  fullName: Runnex.Utilities.SerializableStringEnum<T>.ToString
+  fullName.vb: Runnex.Utilities.SerializableStringEnum(Of T).ToString
+  nameWithType: SerializableStringEnum<T>.ToString
+  nameWithType.vb: SerializableStringEnum(Of T).ToString
+- uid: Runnex.Utilities.SharedContext
+  name: SharedContext
+  href: api/Runnex.Utilities.SharedContext.html
+  commentId: T:Runnex.Utilities.SharedContext
+  fullName: Runnex.Utilities.SharedContext
+  nameWithType: SharedContext
+- uid: Runnex.Utilities.SharedContext.#ctor
+  name: SharedContext()
+  href: api/Runnex.Utilities.SharedContext.html#Runnex_Utilities_SharedContext__ctor
+  commentId: M:Runnex.Utilities.SharedContext.#ctor
+  fullName: Runnex.Utilities.SharedContext.SharedContext()
+  nameWithType: SharedContext.SharedContext()
+- uid: Runnex.Utilities.SharedContext.#ctor*
+  name: SharedContext
+  href: api/Runnex.Utilities.SharedContext.html#Runnex_Utilities_SharedContext__ctor_
+  commentId: Overload:Runnex.Utilities.SharedContext.#ctor
+  isSpec: "True"
+  fullName: Runnex.Utilities.SharedContext.SharedContext
+  nameWithType: SharedContext.SharedContext
+- uid: Runnex.Utilities.SharedContext.Add*
+  name: Add
+  href: api/Runnex.Utilities.SharedContext.html#Runnex_Utilities_SharedContext_Add_
+  commentId: Overload:Runnex.Utilities.SharedContext.Add
+  isSpec: "True"
+  fullName: Runnex.Utilities.SharedContext.Add
+  nameWithType: SharedContext.Add
+- uid: Runnex.Utilities.SharedContext.Add``1(``0)
+  name: Add<T>(T)
+  href: api/Runnex.Utilities.SharedContext.html#Runnex_Utilities_SharedContext_Add__1___0_
+  commentId: M:Runnex.Utilities.SharedContext.Add``1(``0)
+  name.vb: Add(Of T)(T)
+  fullName: Runnex.Utilities.SharedContext.Add<T>(T)
+  fullName.vb: Runnex.Utilities.SharedContext.Add(Of T)(T)
+  nameWithType: SharedContext.Add<T>(T)
+  nameWithType.vb: SharedContext.Add(Of T)(T)
+- uid: Runnex.Utilities.SharedContext.Get*
+  name: Get
+  href: api/Runnex.Utilities.SharedContext.html#Runnex_Utilities_SharedContext_Get_
+  commentId: Overload:Runnex.Utilities.SharedContext.Get
+  isSpec: "True"
+  fullName: Runnex.Utilities.SharedContext.Get
+  nameWithType: SharedContext.Get
+- uid: Runnex.Utilities.SharedContext.Get``1
+  name: Get<T>()
+  href: api/Runnex.Utilities.SharedContext.html#Runnex_Utilities_SharedContext_Get__1
+  commentId: M:Runnex.Utilities.SharedContext.Get``1
+  name.vb: Get(Of T)()
+  fullName: Runnex.Utilities.SharedContext.Get<T>()
+  fullName.vb: Runnex.Utilities.SharedContext.Get(Of T)()
+  nameWithType: SharedContext.Get<T>()
+  nameWithType.vb: SharedContext.Get(Of T)()
+- uid: Runnex.Utilities.SharedContext.Remove*
+  name: Remove
+  href: api/Runnex.Utilities.SharedContext.html#Runnex_Utilities_SharedContext_Remove_
+  commentId: Overload:Runnex.Utilities.SharedContext.Remove
+  isSpec: "True"
+  fullName: Runnex.Utilities.SharedContext.Remove
+  nameWithType: SharedContext.Remove
+- uid: Runnex.Utilities.SharedContext.Remove``1
+  name: Remove<T>()
+  href: api/Runnex.Utilities.SharedContext.html#Runnex_Utilities_SharedContext_Remove__1
+  commentId: M:Runnex.Utilities.SharedContext.Remove``1
+  name.vb: Remove(Of T)()
+  fullName: Runnex.Utilities.SharedContext.Remove<T>()
+  fullName.vb: Runnex.Utilities.SharedContext.Remove(Of T)()
+  nameWithType: SharedContext.Remove<T>()
+  nameWithType.vb: SharedContext.Remove(Of T)()
+- uid: Runnex.Utilities.SharedContext.Remove``1(``0)
+  name: Remove<T>(T)
+  href: api/Runnex.Utilities.SharedContext.html#Runnex_Utilities_SharedContext_Remove__1___0_
+  commentId: M:Runnex.Utilities.SharedContext.Remove``1(``0)
+  name.vb: Remove(Of T)(T)
+  fullName: Runnex.Utilities.SharedContext.Remove<T>(T)
+  fullName.vb: Runnex.Utilities.SharedContext.Remove(Of T)(T)
+  nameWithType: SharedContext.Remove<T>(T)
+  nameWithType.vb: SharedContext.Remove(Of T)(T)
+- uid: Runnex.Utilities.SharedContext.TryGet*
+  name: TryGet
+  href: api/Runnex.Utilities.SharedContext.html#Runnex_Utilities_SharedContext_TryGet_
+  commentId: Overload:Runnex.Utilities.SharedContext.TryGet
+  isSpec: "True"
+  fullName: Runnex.Utilities.SharedContext.TryGet
+  nameWithType: SharedContext.TryGet
+- uid: Runnex.Utilities.SharedContext.TryGet``1(``0@)
+  name: TryGet<T>(out T)
+  href: api/Runnex.Utilities.SharedContext.html#Runnex_Utilities_SharedContext_TryGet__1___0__
+  commentId: M:Runnex.Utilities.SharedContext.TryGet``1(``0@)
+  name.vb: TryGet(Of T)(ByRef T)
+  fullName: Runnex.Utilities.SharedContext.TryGet<T>(out T)
+  fullName.vb: Runnex.Utilities.SharedContext.TryGet(Of T)(ByRef T)
+  nameWithType: SharedContext.TryGet<T>(out T)
+  nameWithType.vb: SharedContext.TryGet(Of T)(ByRef T)
+- uid: Runnex.Utilities.ShowWhenAttribute
+  name: ShowWhenAttribute
+  href: api/Runnex.Utilities.ShowWhenAttribute.html
+  commentId: T:Runnex.Utilities.ShowWhenAttribute
+  fullName: Runnex.Utilities.ShowWhenAttribute
+  nameWithType: ShowWhenAttribute
+- uid: Runnex.Utilities.ShowWhenAttribute.#ctor(System.String)
+  name: ShowWhenAttribute(String)
+  href: api/Runnex.Utilities.ShowWhenAttribute.html#Runnex_Utilities_ShowWhenAttribute__ctor_System_String_
+  commentId: M:Runnex.Utilities.ShowWhenAttribute.#ctor(System.String)
+  fullName: Runnex.Utilities.ShowWhenAttribute.ShowWhenAttribute(System.String)
+  nameWithType: ShowWhenAttribute.ShowWhenAttribute(String)
+- uid: Runnex.Utilities.ShowWhenAttribute.#ctor(System.String,System.Object)
+  name: ShowWhenAttribute(String, Object)
+  href: api/Runnex.Utilities.ShowWhenAttribute.html#Runnex_Utilities_ShowWhenAttribute__ctor_System_String_System_Object_
+  commentId: M:Runnex.Utilities.ShowWhenAttribute.#ctor(System.String,System.Object)
+  fullName: Runnex.Utilities.ShowWhenAttribute.ShowWhenAttribute(System.String, System.Object)
+  nameWithType: ShowWhenAttribute.ShowWhenAttribute(String, Object)
+- uid: Runnex.Utilities.ShowWhenAttribute.#ctor(System.String,System.Object[])
+  name: ShowWhenAttribute(String, Object[])
+  href: api/Runnex.Utilities.ShowWhenAttribute.html#Runnex_Utilities_ShowWhenAttribute__ctor_System_String_System_Object___
+  commentId: M:Runnex.Utilities.ShowWhenAttribute.#ctor(System.String,System.Object[])
+  name.vb: ShowWhenAttribute(String, Object())
+  fullName: Runnex.Utilities.ShowWhenAttribute.ShowWhenAttribute(System.String, System.Object[])
+  fullName.vb: Runnex.Utilities.ShowWhenAttribute.ShowWhenAttribute(System.String, System.Object())
+  nameWithType: ShowWhenAttribute.ShowWhenAttribute(String, Object[])
+  nameWithType.vb: ShowWhenAttribute.ShowWhenAttribute(String, Object())
+- uid: Runnex.Utilities.ShowWhenAttribute.#ctor*
+  name: ShowWhenAttribute
+  href: api/Runnex.Utilities.ShowWhenAttribute.html#Runnex_Utilities_ShowWhenAttribute__ctor_
+  commentId: Overload:Runnex.Utilities.ShowWhenAttribute.#ctor
+  isSpec: "True"
+  fullName: Runnex.Utilities.ShowWhenAttribute.ShowWhenAttribute
+  nameWithType: ShowWhenAttribute.ShowWhenAttribute
+- uid: Runnex.Utilities.ShowWhenAttribute.comparationValue
+  name: comparationValue
+  href: api/Runnex.Utilities.ShowWhenAttribute.html#Runnex_Utilities_ShowWhenAttribute_comparationValue
+  commentId: F:Runnex.Utilities.ShowWhenAttribute.comparationValue
+  fullName: Runnex.Utilities.ShowWhenAttribute.comparationValue
+  nameWithType: ShowWhenAttribute.comparationValue
+- uid: Runnex.Utilities.ShowWhenAttribute.comparationValueArray
+  name: comparationValueArray
+  href: api/Runnex.Utilities.ShowWhenAttribute.html#Runnex_Utilities_ShowWhenAttribute_comparationValueArray
+  commentId: F:Runnex.Utilities.ShowWhenAttribute.comparationValueArray
+  fullName: Runnex.Utilities.ShowWhenAttribute.comparationValueArray
+  nameWithType: ShowWhenAttribute.comparationValueArray
+- uid: Runnex.Utilities.ShowWhenAttribute.conditionFieldName
+  name: conditionFieldName
+  href: api/Runnex.Utilities.ShowWhenAttribute.html#Runnex_Utilities_ShowWhenAttribute_conditionFieldName
+  commentId: F:Runnex.Utilities.ShowWhenAttribute.conditionFieldName
+  fullName: Runnex.Utilities.ShowWhenAttribute.conditionFieldName
+  nameWithType: ShowWhenAttribute.conditionFieldName
+- uid: Runnex.Utilities.Singleton
+  name: Singleton
+  href: api/Runnex.Utilities.Singleton.html
+  commentId: T:Runnex.Utilities.Singleton
+  fullName: Runnex.Utilities.Singleton
+  nameWithType: Singleton
+- uid: Runnex.Utilities.Singleton.Clear
+  name: Clear()
+  href: api/Runnex.Utilities.Singleton.html#Runnex_Utilities_Singleton_Clear
+  commentId: M:Runnex.Utilities.Singleton.Clear
+  fullName: Runnex.Utilities.Singleton.Clear()
+  nameWithType: Singleton.Clear()
+- uid: Runnex.Utilities.Singleton.Clear*
+  name: Clear
+  href: api/Runnex.Utilities.Singleton.html#Runnex_Utilities_Singleton_Clear_
+  commentId: Overload:Runnex.Utilities.Singleton.Clear
+  isSpec: "True"
+  fullName: Runnex.Utilities.Singleton.Clear
+  nameWithType: Singleton.Clear
+- uid: Runnex.Utilities.Singleton.ClearAllSingleton
+  name: ClearAllSingleton()
+  href: api/Runnex.Utilities.Singleton.html#Runnex_Utilities_Singleton_ClearAllSingleton
+  commentId: M:Runnex.Utilities.Singleton.ClearAllSingleton
+  fullName: Runnex.Utilities.Singleton.ClearAllSingleton()
+  nameWithType: Singleton.ClearAllSingleton()
+- uid: Runnex.Utilities.Singleton.ClearAllSingleton*
+  name: ClearAllSingleton
+  href: api/Runnex.Utilities.Singleton.html#Runnex_Utilities_Singleton_ClearAllSingleton_
+  commentId: Overload:Runnex.Utilities.Singleton.ClearAllSingleton
+  isSpec: "True"
+  fullName: Runnex.Utilities.Singleton.ClearAllSingleton
+  nameWithType: Singleton.ClearAllSingleton
+- uid: Runnex.Utilities.Singleton.singletonList
+  name: singletonList
+  href: api/Runnex.Utilities.Singleton.html#Runnex_Utilities_Singleton_singletonList
+  commentId: F:Runnex.Utilities.Singleton.singletonList
+  fullName: Runnex.Utilities.Singleton.singletonList
+  nameWithType: Singleton.singletonList
+- uid: Runnex.Utilities.Singleton`1
+  name: Singleton<T>
+  href: api/Runnex.Utilities.Singleton-1.html
+  commentId: T:Runnex.Utilities.Singleton`1
+  name.vb: Singleton(Of T)
+  fullName: Runnex.Utilities.Singleton<T>
+  fullName.vb: Runnex.Utilities.Singleton(Of T)
+  nameWithType: Singleton<T>
+  nameWithType.vb: Singleton(Of T)
+- uid: Runnex.Utilities.Singleton`1.Clear
+  name: Clear()
+  href: api/Runnex.Utilities.Singleton-1.html#Runnex_Utilities_Singleton_1_Clear
+  commentId: M:Runnex.Utilities.Singleton`1.Clear
+  fullName: Runnex.Utilities.Singleton<T>.Clear()
+  fullName.vb: Runnex.Utilities.Singleton(Of T).Clear()
+  nameWithType: Singleton<T>.Clear()
+  nameWithType.vb: Singleton(Of T).Clear()
+- uid: Runnex.Utilities.Singleton`1.Clear*
+  name: Clear
+  href: api/Runnex.Utilities.Singleton-1.html#Runnex_Utilities_Singleton_1_Clear_
+  commentId: Overload:Runnex.Utilities.Singleton`1.Clear
+  isSpec: "True"
+  fullName: Runnex.Utilities.Singleton<T>.Clear
+  fullName.vb: Runnex.Utilities.Singleton(Of T).Clear
+  nameWithType: Singleton<T>.Clear
+  nameWithType.vb: Singleton(Of T).Clear
+- uid: Runnex.Utilities.Singleton`1.HasInstance
+  name: HasInstance
+  href: api/Runnex.Utilities.Singleton-1.html#Runnex_Utilities_Singleton_1_HasInstance
+  commentId: P:Runnex.Utilities.Singleton`1.HasInstance
+  fullName: Runnex.Utilities.Singleton<T>.HasInstance
+  fullName.vb: Runnex.Utilities.Singleton(Of T).HasInstance
+  nameWithType: Singleton<T>.HasInstance
+  nameWithType.vb: Singleton(Of T).HasInstance
+- uid: Runnex.Utilities.Singleton`1.HasInstance*
+  name: HasInstance
+  href: api/Runnex.Utilities.Singleton-1.html#Runnex_Utilities_Singleton_1_HasInstance_
+  commentId: Overload:Runnex.Utilities.Singleton`1.HasInstance
+  isSpec: "True"
+  fullName: Runnex.Utilities.Singleton<T>.HasInstance
+  fullName.vb: Runnex.Utilities.Singleton(Of T).HasInstance
+  nameWithType: Singleton<T>.HasInstance
+  nameWithType.vb: Singleton(Of T).HasInstance
+- uid: Runnex.Utilities.Singleton`1.Instance
+  name: Instance
+  href: api/Runnex.Utilities.Singleton-1.html#Runnex_Utilities_Singleton_1_Instance
+  commentId: P:Runnex.Utilities.Singleton`1.Instance
+  fullName: Runnex.Utilities.Singleton<T>.Instance
+  fullName.vb: Runnex.Utilities.Singleton(Of T).Instance
+  nameWithType: Singleton<T>.Instance
+  nameWithType.vb: Singleton(Of T).Instance
+- uid: Runnex.Utilities.Singleton`1.Instance*
+  name: Instance
+  href: api/Runnex.Utilities.Singleton-1.html#Runnex_Utilities_Singleton_1_Instance_
+  commentId: Overload:Runnex.Utilities.Singleton`1.Instance
+  isSpec: "True"
+  fullName: Runnex.Utilities.Singleton<T>.Instance
+  fullName.vb: Runnex.Utilities.Singleton(Of T).Instance
+  nameWithType: Singleton<T>.Instance
+  nameWithType.vb: Singleton(Of T).Instance
+- uid: Runnex.Utilities.StringEnum
+  name: StringEnum
+  href: api/Runnex.Utilities.StringEnum.html
+  commentId: T:Runnex.Utilities.StringEnum
+  fullName: Runnex.Utilities.StringEnum
+  nameWithType: StringEnum
+- uid: Runnex.Utilities.StringEnum.#ctor(System.String)
+  name: StringEnum(String)
+  href: api/Runnex.Utilities.StringEnum.html#Runnex_Utilities_StringEnum__ctor_System_String_
+  commentId: M:Runnex.Utilities.StringEnum.#ctor(System.String)
+  fullName: Runnex.Utilities.StringEnum.StringEnum(System.String)
+  nameWithType: StringEnum.StringEnum(String)
+- uid: Runnex.Utilities.StringEnum.#ctor*
+  name: StringEnum
+  href: api/Runnex.Utilities.StringEnum.html#Runnex_Utilities_StringEnum__ctor_
+  commentId: Overload:Runnex.Utilities.StringEnum.#ctor
+  isSpec: "True"
+  fullName: Runnex.Utilities.StringEnum.StringEnum
+  nameWithType: StringEnum.StringEnum
+- uid: Runnex.Utilities.StringEnum.ConversionHandler
+  name: StringEnum.ConversionHandler
+  href: api/Runnex.Utilities.StringEnum.ConversionHandler.html
+  commentId: T:Runnex.Utilities.StringEnum.ConversionHandler
+  fullName: Runnex.Utilities.StringEnum.ConversionHandler
+  nameWithType: StringEnum.ConversionHandler
+- uid: Runnex.Utilities.StringEnum.FromString(System.Type,System.String)
+  name: FromString(Type, String)
+  href: api/Runnex.Utilities.StringEnum.html#Runnex_Utilities_StringEnum_FromString_System_Type_System_String_
+  commentId: M:Runnex.Utilities.StringEnum.FromString(System.Type,System.String)
+  fullName: Runnex.Utilities.StringEnum.FromString(System.Type, System.String)
+  nameWithType: StringEnum.FromString(Type, String)
+- uid: Runnex.Utilities.StringEnum.FromString*
+  name: FromString
+  href: api/Runnex.Utilities.StringEnum.html#Runnex_Utilities_StringEnum_FromString_
+  commentId: Overload:Runnex.Utilities.StringEnum.FromString
+  isSpec: "True"
+  fullName: Runnex.Utilities.StringEnum.FromString
+  nameWithType: StringEnum.FromString
+- uid: Runnex.Utilities.StringEnum.RegisterConversionHandler(System.Type,Runnex.Utilities.StringEnum.ConversionHandler)
+  name: RegisterConversionHandler(Type, StringEnum.ConversionHandler)
+  href: api/Runnex.Utilities.StringEnum.html#Runnex_Utilities_StringEnum_RegisterConversionHandler_System_Type_Runnex_Utilities_StringEnum_ConversionHandler_
+  commentId: M:Runnex.Utilities.StringEnum.RegisterConversionHandler(System.Type,Runnex.Utilities.StringEnum.ConversionHandler)
+  fullName: Runnex.Utilities.StringEnum.RegisterConversionHandler(System.Type, Runnex.Utilities.StringEnum.ConversionHandler)
+  nameWithType: StringEnum.RegisterConversionHandler(Type, StringEnum.ConversionHandler)
+- uid: Runnex.Utilities.StringEnum.RegisterConversionHandler*
+  name: RegisterConversionHandler
+  href: api/Runnex.Utilities.StringEnum.html#Runnex_Utilities_StringEnum_RegisterConversionHandler_
+  commentId: Overload:Runnex.Utilities.StringEnum.RegisterConversionHandler
+  isSpec: "True"
+  fullName: Runnex.Utilities.StringEnum.RegisterConversionHandler
+  nameWithType: StringEnum.RegisterConversionHandler
+- uid: Runnex.Utilities.StringEnum.RunClassConstructor(System.Type)
+  name: RunClassConstructor(Type)
+  href: api/Runnex.Utilities.StringEnum.html#Runnex_Utilities_StringEnum_RunClassConstructor_System_Type_
+  commentId: M:Runnex.Utilities.StringEnum.RunClassConstructor(System.Type)
+  fullName: Runnex.Utilities.StringEnum.RunClassConstructor(System.Type)
+  nameWithType: StringEnum.RunClassConstructor(Type)
+- uid: Runnex.Utilities.StringEnum.RunClassConstructor*
+  name: RunClassConstructor
+  href: api/Runnex.Utilities.StringEnum.html#Runnex_Utilities_StringEnum_RunClassConstructor_
+  commentId: Overload:Runnex.Utilities.StringEnum.RunClassConstructor
+  isSpec: "True"
+  fullName: Runnex.Utilities.StringEnum.RunClassConstructor
+  nameWithType: StringEnum.RunClassConstructor
+- uid: Runnex.Utilities.StringEnum.Value
+  name: Value
+  href: api/Runnex.Utilities.StringEnum.html#Runnex_Utilities_StringEnum_Value
+  commentId: F:Runnex.Utilities.StringEnum.Value
+  fullName: Runnex.Utilities.StringEnum.Value
+  nameWithType: StringEnum.Value
+- uid: Runnex.Utilities.StringEnum`1
+  name: StringEnum<T>
+  href: api/Runnex.Utilities.StringEnum-1.html
+  commentId: T:Runnex.Utilities.StringEnum`1
+  name.vb: StringEnum(Of T)
+  fullName: Runnex.Utilities.StringEnum<T>
+  fullName.vb: Runnex.Utilities.StringEnum(Of T)
+  nameWithType: StringEnum<T>
+  nameWithType.vb: StringEnum(Of T)
+- uid: Runnex.Utilities.StringEnum`1.#ctor(System.String)
+  name: StringEnum(String)
+  href: api/Runnex.Utilities.StringEnum-1.html#Runnex_Utilities_StringEnum_1__ctor_System_String_
+  commentId: M:Runnex.Utilities.StringEnum`1.#ctor(System.String)
+  fullName: Runnex.Utilities.StringEnum<T>.StringEnum(System.String)
+  fullName.vb: Runnex.Utilities.StringEnum(Of T).StringEnum(System.String)
+  nameWithType: StringEnum<T>.StringEnum(String)
+  nameWithType.vb: StringEnum(Of T).StringEnum(String)
+- uid: Runnex.Utilities.StringEnum`1.#ctor*
+  name: StringEnum
+  href: api/Runnex.Utilities.StringEnum-1.html#Runnex_Utilities_StringEnum_1__ctor_
+  commentId: Overload:Runnex.Utilities.StringEnum`1.#ctor
+  isSpec: "True"
+  fullName: Runnex.Utilities.StringEnum<T>.StringEnum
+  fullName.vb: Runnex.Utilities.StringEnum(Of T).StringEnum
+  nameWithType: StringEnum<T>.StringEnum
+  nameWithType.vb: StringEnum(Of T).StringEnum
+- uid: Runnex.Utilities.StringEnum`1.AddMember(Runnex.Utilities.StringEnum{`0})
+  name: AddMember(StringEnum<T>)
+  href: api/Runnex.Utilities.StringEnum-1.html#Runnex_Utilities_StringEnum_1_AddMember_Runnex_Utilities_StringEnum__0__
+  commentId: M:Runnex.Utilities.StringEnum`1.AddMember(Runnex.Utilities.StringEnum{`0})
+  name.vb: AddMember(StringEnum(Of T))
+  fullName: Runnex.Utilities.StringEnum<T>.AddMember(Runnex.Utilities.StringEnum<T>)
+  fullName.vb: Runnex.Utilities.StringEnum(Of T).AddMember(Runnex.Utilities.StringEnum(Of T))
+  nameWithType: StringEnum<T>.AddMember(StringEnum<T>)
+  nameWithType.vb: StringEnum(Of T).AddMember(StringEnum(Of T))
+- uid: Runnex.Utilities.StringEnum`1.AddMember*
+  name: AddMember
+  href: api/Runnex.Utilities.StringEnum-1.html#Runnex_Utilities_StringEnum_1_AddMember_
+  commentId: Overload:Runnex.Utilities.StringEnum`1.AddMember
+  isSpec: "True"
+  fullName: Runnex.Utilities.StringEnum<T>.AddMember
+  fullName.vb: Runnex.Utilities.StringEnum(Of T).AddMember
+  nameWithType: StringEnum<T>.AddMember
+  nameWithType.vb: StringEnum(Of T).AddMember
+- uid: Runnex.Utilities.StringEnum`1.FromString(System.String)
+  name: FromString(String)
+  href: api/Runnex.Utilities.StringEnum-1.html#Runnex_Utilities_StringEnum_1_FromString_System_String_
+  commentId: M:Runnex.Utilities.StringEnum`1.FromString(System.String)
+  fullName: Runnex.Utilities.StringEnum<T>.FromString(System.String)
+  fullName.vb: Runnex.Utilities.StringEnum(Of T).FromString(System.String)
+  nameWithType: StringEnum<T>.FromString(String)
+  nameWithType.vb: StringEnum(Of T).FromString(String)
+- uid: Runnex.Utilities.StringEnum`1.FromString*
+  name: FromString
+  href: api/Runnex.Utilities.StringEnum-1.html#Runnex_Utilities_StringEnum_1_FromString_
+  commentId: Overload:Runnex.Utilities.StringEnum`1.FromString
+  isSpec: "True"
+  fullName: Runnex.Utilities.StringEnum<T>.FromString
+  fullName.vb: Runnex.Utilities.StringEnum(Of T).FromString
+  nameWithType: StringEnum<T>.FromString
+  nameWithType.vb: StringEnum(Of T).FromString
+- uid: Runnex.Utilities.StringEnum`1.Members
+  name: Members
+  href: api/Runnex.Utilities.StringEnum-1.html#Runnex_Utilities_StringEnum_1_Members
+  commentId: P:Runnex.Utilities.StringEnum`1.Members
+  fullName: Runnex.Utilities.StringEnum<T>.Members
+  fullName.vb: Runnex.Utilities.StringEnum(Of T).Members
+  nameWithType: StringEnum<T>.Members
+  nameWithType.vb: StringEnum(Of T).Members
+- uid: Runnex.Utilities.StringEnum`1.Members*
+  name: Members
+  href: api/Runnex.Utilities.StringEnum-1.html#Runnex_Utilities_StringEnum_1_Members_
+  commentId: Overload:Runnex.Utilities.StringEnum`1.Members
+  isSpec: "True"
+  fullName: Runnex.Utilities.StringEnum<T>.Members
+  fullName.vb: Runnex.Utilities.StringEnum(Of T).Members
+  nameWithType: StringEnum<T>.Members
+  nameWithType.vb: StringEnum(Of T).Members
+- uid: Runnex.Utilities.StringEnum`1.ToString
+  name: ToString()
+  href: api/Runnex.Utilities.StringEnum-1.html#Runnex_Utilities_StringEnum_1_ToString
+  commentId: M:Runnex.Utilities.StringEnum`1.ToString
+  fullName: Runnex.Utilities.StringEnum<T>.ToString()
+  fullName.vb: Runnex.Utilities.StringEnum(Of T).ToString()
+  nameWithType: StringEnum<T>.ToString()
+  nameWithType.vb: StringEnum(Of T).ToString()
+- uid: Runnex.Utilities.StringEnum`1.ToString*
+  name: ToString
+  href: api/Runnex.Utilities.StringEnum-1.html#Runnex_Utilities_StringEnum_1_ToString_
+  commentId: Overload:Runnex.Utilities.StringEnum`1.ToString
+  isSpec: "True"
+  fullName: Runnex.Utilities.StringEnum<T>.ToString
+  fullName.vb: Runnex.Utilities.StringEnum(Of T).ToString
+  nameWithType: StringEnum<T>.ToString
+  nameWithType.vb: StringEnum(Of T).ToString
+- uid: Runnex.Utilities.Timer
+  name: Timer
+  href: api/Runnex.Utilities.Timer.html
+  commentId: T:Runnex.Utilities.Timer
+  fullName: Runnex.Utilities.Timer
+  nameWithType: Timer
+- uid: Runnex.Utilities.Timer.#ctor(System.Single,System.Action)
+  name: Timer(Single, Action)
+  href: api/Runnex.Utilities.Timer.html#Runnex_Utilities_Timer__ctor_System_Single_System_Action_
+  commentId: M:Runnex.Utilities.Timer.#ctor(System.Single,System.Action)
+  fullName: Runnex.Utilities.Timer.Timer(System.Single, System.Action)
+  nameWithType: Timer.Timer(Single, Action)
+- uid: Runnex.Utilities.Timer.#ctor*
+  name: Timer
+  href: api/Runnex.Utilities.Timer.html#Runnex_Utilities_Timer__ctor_
+  commentId: Overload:Runnex.Utilities.Timer.#ctor
+  isSpec: "True"
+  fullName: Runnex.Utilities.Timer.Timer
+  nameWithType: Timer.Timer
+- uid: Runnex.Utilities.Timer.GetRemainTime
+  name: GetRemainTime()
+  href: api/Runnex.Utilities.Timer.html#Runnex_Utilities_Timer_GetRemainTime
+  commentId: M:Runnex.Utilities.Timer.GetRemainTime
+  fullName: Runnex.Utilities.Timer.GetRemainTime()
+  nameWithType: Timer.GetRemainTime()
+- uid: Runnex.Utilities.Timer.GetRemainTime*
+  name: GetRemainTime
+  href: api/Runnex.Utilities.Timer.html#Runnex_Utilities_Timer_GetRemainTime_
+  commentId: Overload:Runnex.Utilities.Timer.GetRemainTime
+  isSpec: "True"
+  fullName: Runnex.Utilities.Timer.GetRemainTime
+  nameWithType: Timer.GetRemainTime
+- uid: Runnex.Utilities.Timer.GetTimePass
+  name: GetTimePass()
+  href: api/Runnex.Utilities.Timer.html#Runnex_Utilities_Timer_GetTimePass
+  commentId: M:Runnex.Utilities.Timer.GetTimePass
+  fullName: Runnex.Utilities.Timer.GetTimePass()
+  nameWithType: Timer.GetTimePass()
+- uid: Runnex.Utilities.Timer.GetTimePass*
+  name: GetTimePass
+  href: api/Runnex.Utilities.Timer.html#Runnex_Utilities_Timer_GetTimePass_
+  commentId: Overload:Runnex.Utilities.Timer.GetTimePass
+  isSpec: "True"
+  fullName: Runnex.Utilities.Timer.GetTimePass
+  nameWithType: Timer.GetTimePass
+- uid: Runnex.Utilities.Timer.IsCompleted
+  name: IsCompleted
+  href: api/Runnex.Utilities.Timer.html#Runnex_Utilities_Timer_IsCompleted
+  commentId: P:Runnex.Utilities.Timer.IsCompleted
+  fullName: Runnex.Utilities.Timer.IsCompleted
+  nameWithType: Timer.IsCompleted
+- uid: Runnex.Utilities.Timer.IsCompleted*
+  name: IsCompleted
+  href: api/Runnex.Utilities.Timer.html#Runnex_Utilities_Timer_IsCompleted_
+  commentId: Overload:Runnex.Utilities.Timer.IsCompleted
+  isSpec: "True"
+  fullName: Runnex.Utilities.Timer.IsCompleted
+  nameWithType: Timer.IsCompleted
+- uid: Runnex.Utilities.Timer.IsPaused
+  name: IsPaused
+  href: api/Runnex.Utilities.Timer.html#Runnex_Utilities_Timer_IsPaused
+  commentId: P:Runnex.Utilities.Timer.IsPaused
+  fullName: Runnex.Utilities.Timer.IsPaused
+  nameWithType: Timer.IsPaused
+- uid: Runnex.Utilities.Timer.IsPaused*
+  name: IsPaused
+  href: api/Runnex.Utilities.Timer.html#Runnex_Utilities_Timer_IsPaused_
+  commentId: Overload:Runnex.Utilities.Timer.IsPaused
+  isSpec: "True"
+  fullName: Runnex.Utilities.Timer.IsPaused
+  nameWithType: Timer.IsPaused
+- uid: Runnex.Utilities.Timer.Pause
+  name: Pause()
+  href: api/Runnex.Utilities.Timer.html#Runnex_Utilities_Timer_Pause
+  commentId: M:Runnex.Utilities.Timer.Pause
+  fullName: Runnex.Utilities.Timer.Pause()
+  nameWithType: Timer.Pause()
+- uid: Runnex.Utilities.Timer.Pause*
+  name: Pause
+  href: api/Runnex.Utilities.Timer.html#Runnex_Utilities_Timer_Pause_
+  commentId: Overload:Runnex.Utilities.Timer.Pause
+  isSpec: "True"
+  fullName: Runnex.Utilities.Timer.Pause
+  nameWithType: Timer.Pause
+- uid: Runnex.Utilities.Timer.Restart
+  name: Restart()
+  href: api/Runnex.Utilities.Timer.html#Runnex_Utilities_Timer_Restart
+  commentId: M:Runnex.Utilities.Timer.Restart
+  fullName: Runnex.Utilities.Timer.Restart()
+  nameWithType: Timer.Restart()
+- uid: Runnex.Utilities.Timer.Restart*
+  name: Restart
+  href: api/Runnex.Utilities.Timer.html#Runnex_Utilities_Timer_Restart_
+  commentId: Overload:Runnex.Utilities.Timer.Restart
+  isSpec: "True"
+  fullName: Runnex.Utilities.Timer.Restart
+  nameWithType: Timer.Restart
+- uid: Runnex.Utilities.Timer.Resume
+  name: Resume()
+  href: api/Runnex.Utilities.Timer.html#Runnex_Utilities_Timer_Resume
+  commentId: M:Runnex.Utilities.Timer.Resume
+  fullName: Runnex.Utilities.Timer.Resume()
+  nameWithType: Timer.Resume()
+- uid: Runnex.Utilities.Timer.Resume*
+  name: Resume
+  href: api/Runnex.Utilities.Timer.html#Runnex_Utilities_Timer_Resume_
+  commentId: Overload:Runnex.Utilities.Timer.Resume
+  isSpec: "True"
+  fullName: Runnex.Utilities.Timer.Resume
+  nameWithType: Timer.Resume
+- uid: Runnex.Utilities.Timer.Update
+  name: Update()
+  href: api/Runnex.Utilities.Timer.html#Runnex_Utilities_Timer_Update
+  commentId: M:Runnex.Utilities.Timer.Update
+  fullName: Runnex.Utilities.Timer.Update()
+  nameWithType: Timer.Update()
+- uid: Runnex.Utilities.Timer.Update*
+  name: Update
+  href: api/Runnex.Utilities.Timer.html#Runnex_Utilities_Timer_Update_
+  commentId: Overload:Runnex.Utilities.Timer.Update
+  isSpec: "True"
+  fullName: Runnex.Utilities.Timer.Update
+  nameWithType: Timer.Update
+- uid: Runnex.Utilities.WaitForDone
+  name: WaitForDone
+  href: api/Runnex.Utilities.WaitForDone.html
+  commentId: T:Runnex.Utilities.WaitForDone
+  fullName: Runnex.Utilities.WaitForDone
+  nameWithType: WaitForDone
+- uid: Runnex.Utilities.WaitForDone.#ctor(System.Single,System.Func{System.Boolean})
+  name: WaitForDone(Single, Func<Boolean>)
+  href: api/Runnex.Utilities.WaitForDone.html#Runnex_Utilities_WaitForDone__ctor_System_Single_System_Func_System_Boolean__
+  commentId: M:Runnex.Utilities.WaitForDone.#ctor(System.Single,System.Func{System.Boolean})
+  name.vb: WaitForDone(Single, Func(Of Boolean))
+  fullName: Runnex.Utilities.WaitForDone.WaitForDone(System.Single, System.Func<System.Boolean>)
+  fullName.vb: Runnex.Utilities.WaitForDone.WaitForDone(System.Single, System.Func(Of System.Boolean))
+  nameWithType: WaitForDone.WaitForDone(Single, Func<Boolean>)
+  nameWithType.vb: WaitForDone.WaitForDone(Single, Func(Of Boolean))
+- uid: Runnex.Utilities.WaitForDone.#ctor*
+  name: WaitForDone
+  href: api/Runnex.Utilities.WaitForDone.html#Runnex_Utilities_WaitForDone__ctor_
+  commentId: Overload:Runnex.Utilities.WaitForDone.#ctor
+  isSpec: "True"
+  fullName: Runnex.Utilities.WaitForDone.WaitForDone
+  nameWithType: WaitForDone.WaitForDone
+- uid: Runnex.Utilities.WaitForDone.keepWaiting
+  name: keepWaiting
+  href: api/Runnex.Utilities.WaitForDone.html#Runnex_Utilities_WaitForDone_keepWaiting
+  commentId: P:Runnex.Utilities.WaitForDone.keepWaiting
+  fullName: Runnex.Utilities.WaitForDone.keepWaiting
+  nameWithType: WaitForDone.keepWaiting
+- uid: Runnex.Utilities.WaitForDone.keepWaiting*
+  name: keepWaiting
+  href: api/Runnex.Utilities.WaitForDone.html#Runnex_Utilities_WaitForDone_keepWaiting_
+  commentId: Overload:Runnex.Utilities.WaitForDone.keepWaiting
+  isSpec: "True"
+  fullName: Runnex.Utilities.WaitForDone.keepWaiting
+  nameWithType: WaitForDone.keepWaiting

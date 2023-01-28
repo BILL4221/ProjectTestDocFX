@@ -1,0 +1,495 @@
+{
+  "sitemap": {
+    "fileOptions": {
+      "api/*": {
+        "baseUrl": "https://BILL4221.github.io/ProjectTestDocFX/",
+        "changefreq": "daily"
+      }
+    },
+    "baseUrl": "https://BILL4221.github.io/ProjectTestDocFX/",
+    "changefreq": "weekly"
+  },
+  "homepages": [],
+  "source_base_path": "D:/a/ProjectTestDocFX/ProjectTestDocFX/Documentation",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      },
+      "is_incremental": false
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Runnex.Classifier.TextureScaler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Runnex.Classifier.TextureScaler.html",
+          "hash": "S18Avl/HKTy/0jxArGSZMAY6O8PBgHpomiM21nFW83w="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Runnex.Classifier.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Runnex.Classifier.html",
+          "hash": "/yIOPJd9Ifdk+B0WEaceLHUHx/G9OllM0Vv05quGx4Y="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Runnex.Utilities.AutoGetAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Runnex.Utilities.AutoGetAttribute.html",
+          "hash": "Sy8N6DF6oSxnn1scL2Cl0sdgumhOpqlXGNZV9vgXQMg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Runnex.Utilities.AutoGetMonoBehaviour.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Runnex.Utilities.AutoGetMonoBehaviour.html",
+          "hash": "mjPYxSKEuAZ6eJPz4p+IQQfX50EL5G81J/EcaWffmWU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Runnex.Utilities.CSVHelper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Runnex.Utilities.CSVHelper.html",
+          "hash": "UkRJsig1Y2haifg6KNFSPGCgY543VZhVfeg5BLio0wg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Runnex.Utilities.Editor.StringEnumDrawer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Runnex.Utilities.Editor.StringEnumDrawer.html",
+          "hash": "61ZBOiOlF8ua12JC6jkbSfHIoIl3KAGTH/DwyI3gM+E="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Runnex.Utilities.Editor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Runnex.Utilities.Editor.html",
+          "hash": "kR8N9C6fFmz6fEhUkvKkuufnp198SbAB7wSrP8E4/m8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Runnex.Utilities.Example.TestStringEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Runnex.Utilities.Example.TestStringEnum.html",
+          "hash": "Rj1wspzdxL7zUOgoFxPpelc9PlLahRgBirbIvoLDEw8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Runnex.Utilities.Example.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Runnex.Utilities.Example.html",
+          "hash": "ldtwSe3FnFTvHYHlhqL1yj9ID67Z/alCpeXqiQpO3I4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Runnex.Utilities.Extensions.GraphicExtension.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Runnex.Utilities.Extensions.GraphicExtension.html",
+          "hash": "jO2tZAPl2IPFmFObgbowJT15faGzJktdNfEn7v0CLDY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Runnex.Utilities.Extensions.VectorExtension.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Runnex.Utilities.Extensions.VectorExtension.html",
+          "hash": "bnUgz3cMUvWmmPh4XOCYLc0CYVigxnQblQi9RjyL57E="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Runnex.Utilities.Extensions.WebCamExtension.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Runnex.Utilities.Extensions.WebCamExtension.html",
+          "hash": "IjdafHw+KT77V9idsdd3uOcPDiPcw845qyvxOFHfREs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Runnex.Utilities.Extensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Runnex.Utilities.Extensions.html",
+          "hash": "+BKG0+fRtYk2pYe1P6pi34hfv8xGVhuTfWuJGScvBAM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Runnex.Utilities.GameObjectExtension.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Runnex.Utilities.GameObjectExtension.html",
+          "hash": "oR3KTtU4MZ2CZYyf49ce7JdsflnCe3sHYLNG8OFYJiE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Runnex.Utilities.GameViewUtils.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Runnex.Utilities.GameViewUtils.html",
+          "hash": "ZKNHeoWrxBs2cxey0y3a1zEXrWXZbbo39+iam7T1XVg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Runnex.Utilities.MonoSingleton-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Runnex.Utilities.MonoSingleton-1.html",
+          "hash": "ClparqPp2rbQ/oAcj/0TOlSOMsoZL9hl8xW5JV8Hspg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Runnex.Utilities.MonoSingleton.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Runnex.Utilities.MonoSingleton.html",
+          "hash": "SO+URD2ZvusrFXYb0HUjHs++R8Q6vB2E6BVIiVFp6gg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Runnex.Utilities.ObjectExtension.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Runnex.Utilities.ObjectExtension.html",
+          "hash": "xikuxhWnQcbLkCNyl+IG9142jBn35S102XwUNf+CJTo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Runnex.Utilities.PoseStyle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Runnex.Utilities.PoseStyle.html",
+          "hash": "iHvKFCJPSrpznQjxZO/JItEcwgBn8bmto2oLPM9YiMk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Runnex.Utilities.RNGHelper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Runnex.Utilities.RNGHelper.html",
+          "hash": "2n+9eHqBkrgCyJXUTYvJh2nTTuJfae9q43DmUWeIsEg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Runnex.Utilities.SerializableStringEnum-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Runnex.Utilities.SerializableStringEnum-1.html",
+          "hash": "U+S4vEiLhn4ttU8RkuCnBYX+hVmCPeUDnc0PPNAUtWk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Runnex.Utilities.SerializableStringEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Runnex.Utilities.SerializableStringEnum.html",
+          "hash": "mNC+WZ83+YYO1bJCLp8VrSGMvdJ2DPLhLEv0acOdstk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Runnex.Utilities.SharedContext.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Runnex.Utilities.SharedContext.html",
+          "hash": "PzschxPqBRvyJRPnmyhW7btSwoIINEmLtN4L37yyq+Y="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Runnex.Utilities.ShowWhenAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Runnex.Utilities.ShowWhenAttribute.html",
+          "hash": "8FTpMpanFTJ/A2Raw/9L8cOABzjXAQKQFxSpB1w+SIw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Runnex.Utilities.Singleton-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Runnex.Utilities.Singleton-1.html",
+          "hash": "MtGtcIcq7Syx9Y4El44EumzUJiN6r6dJL0q1aDLsdlQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Runnex.Utilities.Singleton.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Runnex.Utilities.Singleton.html",
+          "hash": "pty/5jwU4NWl9hmuf0k+fwrDKFrR8wiLD4dAiz74bO4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Runnex.Utilities.StringEnum-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Runnex.Utilities.StringEnum-1.html",
+          "hash": "7N/N9fwrM+Ur90932WXIGIqjvq+8yB1VGwG8/is4lGY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Runnex.Utilities.StringEnum.ConversionHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Runnex.Utilities.StringEnum.ConversionHandler.html",
+          "hash": "QsyMFzaE3FSnn3k9VTdcIYR2yG0vhv3kKnVrBUYeV2k="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Runnex.Utilities.StringEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Runnex.Utilities.StringEnum.html",
+          "hash": "wjq7RP710ABtjBjT4oSejvrFTLccrjB7Y+q0juE1DQk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Runnex.Utilities.Timer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Runnex.Utilities.Timer.html",
+          "hash": "0EkLTFM0PQ/hSLuLXU/QCaWs94ODzS2PUfDiw95BPKw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Runnex.Utilities.WaitForDone.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Runnex.Utilities.WaitForDone.html",
+          "hash": "4+c7PNO3V+lDofg9kIFOZAubZpUxDGOB7esxL3nimbk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Runnex.Utilities.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Runnex.Utilities.html",
+          "hash": "P1VCCLoztiSYjnJGRCJNfP30ucuKC6w7vgazfAbuRvU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "R/cG8NZrMfq9mTifFz3McDqrDzj0ifb27zaD0PYsPjc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "GFFDZKBmXBZfB2hoQ4O5/YZmuEw1M+FiZ7zuHV/Cp+E="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "27GllFNuceKmoUlM8qdBXPRhY7n+sax7Tbtrs6KUYYY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot build incrementally because last build info is missing.",
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0,
+        "full_build_reason_code": "NoAvailableBuildCache"
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 1,
+          "skipped_file_count": 0
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 33,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: should not trace intermediate info.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
