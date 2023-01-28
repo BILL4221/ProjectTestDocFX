@@ -1,0 +1,18 @@
+{
+    "name": "Runnex.Utilities.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:2e6d7fa24821f614b80966e31766a964"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
